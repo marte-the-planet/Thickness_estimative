@@ -1,0 +1,10 @@
+Sample Identifier	Hf 4f %	Si 2p %	
+Al Kalpha (2)	81.8966	18.1034	
+Al Kalpha (3)	84.1956	15.8044	
+Al Kalpha (3)	86.4541	13.5459	
+Al Kalpha (3)	90.3613	9.63866	
+Al Kalpha (3)	92.2507	7.74929	
+Al Kalpha (3)	93.5935	6.4065	
+Al Kalpha (3)	94.9992	5.00077	
+Al Kalpha (3)	95.4103	4.58966	
+
